@@ -1,31 +1,62 @@
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
-https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
-https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
-https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
-https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
-https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
-https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
-https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
-https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Njl2UVf.png",US | KCPT PBS
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QqQbJaN.png",US | KCTV 5
+https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urX82hM.png",US | KCTV Comet
+https://cvtv.cvalley.net/hls/KCTVComet/KCTVComet.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTpcYBO.jpg",US | The CW 29 Kansas City MO (KCWE)
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xQgJvW6.png",US | KHQA 7 CBS
+https://cvtv.cvalley.net/hls/KHQACBS/KHQACBS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyN2yKP.png",US | KMBC 9 ABC
+https://cvtv.cvalley.net/hls/KMBCABC/KMBCABC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d12h8B5.jpg",US | KMBC MeTV
+https://cvtv.cvalley.net/hls/KMBCMeTV/KMBCMeTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/67QhV6o.png",US | KMCI Bounce TV
+https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uD45qb5.jpg",US | KMCI Grit
+https://cvtv.cvalley.net/hls/KMCIGrit/KMCIGrit.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CwTUx5z.png",US | KMCI Kansas City
 https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZbVCrk4.png",US | KMIZ MeTV
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/If5vLgs.png",US | KNLJ
+https://cvtv.cvalley.net/hls/KNLJ/KNLJ.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0dg4qhA.jpg",US | KOMU 8 NBC
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X4T1Gml.png",US | KOMU CW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z1WiCeb.png",US | KPXE ION
+https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wa35UZH.png",US | KQFX 22 FOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/btQySLT.jpg",US | KRCG 13
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urX82hM.png",US | KRCG Comet
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RpE3IrO.png",US | KSHB 41
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LZbUJct.png",US | KSHB COZI
+https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32JMut4.jpg",US | KSHB LAFF
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDhTnLR.jpg",US | KSMO IND
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d24LxuP.png",US | KTVO 3 ABC
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHIK943.png",US | KTVO 3.2 CBS
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/urX82hM.png",US | KTVO Comet
+https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uct9V2m.png",US | KYOU DT4
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uD45qb5.jpg",US | KYOU GRIT
+https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uct9V2m.png",US | KYOU MYZOU
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CeI1XsD.jpg",US | KYOU NBC
+https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6DgGIkZ.jpg",US | KYOU NBC2
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
