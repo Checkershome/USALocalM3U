@@ -58,17 +58,17 @@ https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CeI1XsD.jpg",US | KYOU NBC
 https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
-#EXTINF:-1 tvg-id="KOMUDT1.us",KOMU-DT1 (720p)
+#EXTINF:-1 tvg-id="KOMUDT1.us",NBC
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-id="KMOSDT1.us",KMOS-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-#EXTINF:-1 tvg-id="KOMUDT3.us",KOMU-DT3 (720p)
+#EXTINF:-1 tvg-id="KOMUDT3.us",CW
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 tvg-id="KRCGDT1.us",KRCG-DT1 (720p)
+#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 tvg-id="KMIZDT1.us",KMIZ-DT1 (720p)
+#EXTINF:-1 tvg-id="KMIZDT1.us",ABC 
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="KQFXLD1.us",KQFX-LD1 (720p)
+#EXTINF:-1 tvg-id="KQFXLD1.us",FOX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 tvg-id="KCTVDT1.us",KCTV-DT1 (720p)
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
@@ -100,7 +100,7 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 #EXTINF:-1 tvg-id="KPXEDT1.us",KPXE-DT1 (720p)
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-#EXTINF:-1 tvg-id="KMIZDT2.us",KMIZ-DT2 (720p)
+#EXTINF:-1 tvg-id="KMIZDT2.us",ME TV
 https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 tvg-id="KMCIDT2.us",KMCI-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
@@ -122,3 +122,5 @@ https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6DgGIkZ.jpg",US | KYOU NBC2
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:-1 tvg-id="WOLO-DT1.us",ABC
+http://143.244.60.30/ABC_EAST/index.m3u8
