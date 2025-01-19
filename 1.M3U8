@@ -248,3 +248,4 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+###https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8###
