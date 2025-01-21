@@ -124,6 +124,8 @@ https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 tvg-id="WOLO-DT1.us",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="NBC Sports",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
