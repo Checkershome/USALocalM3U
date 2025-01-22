@@ -250,4 +250,8 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F2LUpAB.jpg" group-title="Switzerland",Shiva Live TV (1080p)
+https://streameurope.ch/live/shivalivetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="Austria",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 ###https://github.com/Romaxa55/world_ip_tv/blob/b1dc0fc86658e71db1f714fabb96882b7e3f8c9d/output/us.m3u###
