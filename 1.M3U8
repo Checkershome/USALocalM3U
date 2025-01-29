@@ -128,15 +128,15 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
 http://45.184.87.142:8000/play/a045
-#EXTINF:-1 ,TSN 1 
+#EXTINF:-1 tvg-id="TSN 1",TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 ,TSN 2 
+#EXTINF:-1 tvg-id="TSN 2",TSN 2
 http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 ,TSN 3 
+#EXTINF:-1 tvg-id="TSN 3",TSN 3
 http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 ,TSN 4 
+#EXTINF:-1 tvg-id="TSN 4",TSN 4
 http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 ,TSN 5 
+#EXTINF:-1 tvg-id="TSN 5",TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
 http://143.244.60.30/TBS/index.m3u8
