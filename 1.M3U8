@@ -1,5 +1,37 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="KOMUDT1.us",NBC
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-id="KMIZDT1.us",ABC 
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 tvg-id="KOMUDT3.us",CW
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 tvg-id="KQFXLD1.us",FOX
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 tvg-id="WOLO-DT1.us",ABC
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-id="NBC Sports",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
+http://45.184.87.142:8000/play/a045
+#EXTINF:-1 tvg-id="TSN 1",TSN 1
+http://212.102.60.231/TSN_1/index.m3u8
+#EXTINF:-1 tvg-id="TSN 2",TSN 2
+http://212.102.60.231/TSN_2/index.m3u8
+#EXTINF:-1 tvg-id="TSN 3",TSN 3
+http://212.102.60.231/TSN_3/index.m3u8
+#EXTINF:-1 tvg-id="TSN 4",TSN 4
+http://212.102.60.231/TSN_4/index.m3u8
+#EXTINF:-1 tvg-id="TSN 5",TSN 5
+http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TBS",TBS
+http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="FOX NEWS",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="KMOSDT1.us",KMOS-DT1 (720p)
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Njl2UVf.png",US | KCPT PBS
 https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QqQbJaN.png",US | KCTV 5
@@ -58,18 +90,6 @@ https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CeI1XsD.jpg",US | KYOU NBC
 https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
-#EXTINF:-1 tvg-id="KOMUDT1.us",NBC
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 tvg-id="KMOSDT1.us",KMOS-DT1 (720p)
-https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
-#EXTINF:-1 tvg-id="KOMUDT3.us",CW
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 tvg-id="KMIZDT1.us",ABC 
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="KQFXLD1.us",FOX
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 tvg-id="KCTVDT1.us",KCTV-DT1 (720p)
 https://cvtv.cvalley.net/hls/KCTVCBS/KCTVCBS.m3u8
 #EXTINF:-1 tvg-id="KSHBDT1.us",KSHB-DT1 (720p)
@@ -122,24 +142,6 @@ https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6DgGIkZ.jpg",US | KYOU NBC2
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 tvg-id="WOLO-DT1.us",ABC
-http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 tvg-id="NBC Sports",NBC Sports
-https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
-http://45.184.87.142:8000/play/a045
-#EXTINF:-1 tvg-id="TSN 1",TSN 1
-http://212.102.60.231/TSN_1/index.m3u8
-#EXTINF:-1 tvg-id="TSN 2",TSN 2
-http://212.102.60.231/TSN_2/index.m3u8
-#EXTINF:-1 tvg-id="TSN 3",TSN 3
-http://212.102.60.231/TSN_3/index.m3u8
-#EXTINF:-1 tvg-id="TSN 4",TSN 4
-http://212.102.60.231/TSN_4/index.m3u8
-#EXTINF:-1 tvg-id="TSN 5",TSN 5
-http://212.102.60.231/TSN_5/index.m3u8
-#EXTINF:-1 tvg-id="TBS",TBS
-http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
 #EXTINF:-1 tvg-name="ARD Event 2" tvg-id="ARDEvent2.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 2
@@ -198,6 +200,10 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp-audio_int=96000-video=2600000
 https://bild.personalstream.tv/v1/master.m3u8
 #EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
 https://auto-bild.personalstream.tv/v1/bildde/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="IPTV-DE",TVE LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="IPTV-DE",TVE LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="IPTV-DE",Antena 3
 http://176.65.146.224:8401/play/a0a5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R74gG7U.png" group-title="IPTV-DE",La Sexta
@@ -226,17 +232,18 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 http://154.58.225.25:9999/rte1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="IPTV-DE",RTE2 (720p)
 http://154.58.225.25:9999/rte2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x4VsyIm.png" group-title="IPTV-DE",Virgin Media Four (1080p)
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QN0SMt4.png" group-title="IPTV-DE",Virgin Media One (1080p)
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lWkazAS.png" group-title="IPTV-DE",Virgin Media Three (1080p)
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/adtqhBy.png" group-title="IPTV-DE",Virgin Media Two (1080p)
 https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lWkazAS.png" group-title="IPTV-DE",Virgin Media Three (1080p)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x4VsyIm.png" group-title="IPTV-DE",Virgin Media Four (1080p)
+https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC One" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC One
 http://81.137.213.119:4200/bysid/4164
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC Two" tvg-id="BBC.Two.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC Two
 http://81.137.213.119:4200/bysid/4287
 ###https://github.com/Romaxa55/world_ip_tv/blob/b1dc0fc86658e71db1f714fabb96882b7e3f8c9d/output/us.m3u###
 ###https://github.com/inspirationlinks/m3u/blob/live/Freetv.m3u###
+###https://github.com/ipstreet312/freeiptv###
