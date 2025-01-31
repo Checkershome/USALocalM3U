@@ -224,6 +224,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 http://ott.watch/stream/A2Q8BAKW82/215.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="IPTV-DE",Canal+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="IPTV-DE",Tennis Channel DE
+https://jmp2.uk/sam-DEBA2200008NL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="IPTV-DE",SuperTennis HD
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="IPTV-DE",Bloomberg TV Europe (720p)
