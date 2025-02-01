@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="KOMUDT1.us",NBC
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-id="KMIZDT1.us",ABC 
@@ -32,6 +31,8 @@ http://45.184.87.142:8000/play/a045
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN",CNN
 https://jmp2.uk/sam-DEBD800001S4.m3u8
+#EXTINF:-1 tvg-id="KMIZDT2.us",ME TV
+https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 tvg-id="KMOSDT1.us",KMOS-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Njl2UVf.png",US | KCPT PBS
@@ -122,8 +123,6 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 #EXTINF:-1 tvg-id="KPXEDT1.us",KPXE-DT1 (720p)
 https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
-#EXTINF:-1 tvg-id="KMIZDT2.us",ME TV
-https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 tvg-id="KMCIDT2.us",KMCI-DT1 (720p)
 https://cvtv.cvalley.net/hls/KMCIBounceTV/KMCIBounceTV.m3u8
 #EXTINF:-1 tvg-id="KMBCDT2.us",KMBC-DT2 (720p)
@@ -252,3 +251,4 @@ http://81.137.213.119:4200/bysid/4287
 ###https://github.com/inspirationlinks/m3u/blob/live/Freetv.m3u###
 ###https://github.com/ipstreet312/freeiptv###
 ###https://github.com/cfercl/Priv/blob/main/SamAll.m3u8###
+###https://github.com/Paradise-91/ParaTV?tab=readme-ov-file##Samsung+##
