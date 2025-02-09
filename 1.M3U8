@@ -235,14 +235,6 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 http://154.58.225.25:9999/rte1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="IPTV-DE",RTE2 (720p)
 http://154.58.225.25:9999/rte2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QN0SMt4.png" group-title="IPTV-DE",Virgin Media One (1080p)
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_one/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/adtqhBy.png" group-title="IPTV-DE",Virgin Media Two (1080p)
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_two/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lWkazAS.png" group-title="IPTV-DE",Virgin Media Three (1080p)
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_three/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x4VsyIm.png" group-title="IPTV-DE",Virgin Media Four (1080p)
-https://live-virginmedia.simplestreamcdn.com/s3/rewrite/virgin_four/index.m3u8
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC One" tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC One
 http://81.137.213.119:4200/bysid/4164
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC Two" tvg-id="BBC.Two.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC Two
