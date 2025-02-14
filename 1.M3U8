@@ -30,7 +30,7 @@ http://45.184.87.142:8000/play/a045
 #EXTINF:-1 tvg-id="FOX NEWS",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN",CNN
-https://jmp2.uk/sam-DEBD800001S4.m3u8
+https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 tvg-id="KMIZDT2.us",ME TV
 https://cvtv.cvalley.net/hls/KMIZMeTV/KMIZMeTV.m3u8
 #EXTINF:-1 tvg-id="KMOSDT1.us",KMOS-DT1 (720p)
@@ -221,8 +221,6 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="IPTV-DE",Deluxe Music (720p)
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HimuPPb.png" group-title="IPTV-DE",MTV Live
-http://ott.watch/stream/A2Q8BAKW82/215.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="IPTV-DE",Canal+ Sport
 http://78.130.250.2:8023/play/a02v/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3WjH1Q.png" group-title="IPTV-DE",Tennis Channel DE
