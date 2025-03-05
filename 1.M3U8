@@ -27,6 +27,66 @@ http://143.244.60.30/TBS/index.m3u8
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
 http://45.184.87.142:8000/play/a045
+#EXTINF:0,ESPN (Chile) (🇨🇱)
+http://38.180.133.31:8000/play/a0tb
+#EXTINF:0,ESPN (Colombia) (🇨🇴)
+http://38.180.133.31:8000/play/a0wa
+#EXTINF:0,ESPN (Mexico) (🇲🇽)
+http://181.78.82.6:46090/play/a00q
+#EXTINF:0,ESPN (España) (🇪🇸)
+http://191.52.214.5:8000/play/a02s
+#EXTINF:0,ESPN 2 (Argentina) (🇦🇷)
+http://38.180.133.31:8000/play/a0w4
+#EXTINF:0,ESPN 2 (Colombia) (🇨🇴)
+http://181.78.106.127:9000/play/ca034
+#EXTINF:0,ESPN 2 (Chile) (🇨🇱)
+http://191.52.214.5:8000/play/a027
+#EXTINF:0,ESPN 2 (Mexico) (🇲🇽)
+http://181.78.105.146:8800/play/a08t
+#EXTINF:0,ESPN 2 (España) (🇪🇸)
+http://181.78.82.6:46090/play/a00i
+#EXTINF:0,ESPN 3 (Argentina) (🇦🇷)
+http://181.78.105.146:8800/play/a053
+#EXTINF:0,ESPN 3 (Chile) (🇨🇱)
+http://190.102.246.93:9005/play/a02l
+#EXTINF:0,ESPN 3 (Colombia) (🇨🇴)
+http://191.52.214.5:8000/play/a025
+#EXTINF:0,ESPN 3 (Peru) (🇵🇪)
+http://190.61.42.218:9000/play/a061
+#EXTINF:0,ESPN 3 (España) (🇪🇸)
+http://38.180.133.31:8000/play/a0w5
+#EXTINF:0,ESPN 3 (Mexico) (🇲🇽)
+http://181.78.82.6:46090/play/a00v
+#EXTINF:0,ESPN 4 (España) (🇪🇸)
+http://190.102.246.93:9005/play/a019
+#EXTINF:0,ESPN 4 (Colombia) (🇨🇴)
+http://38.180.133.31:8000/play/a0wd
+#EXTINF:0,ESPN 4 (Mexico) (🇲🇽)
+http://181.78.106.127:9000/play/ca036
+#EXTINF:0,ESPN 5 (España) (🇪🇸)
+http://190.83.2.172:8081/play/a07g
+#EXTINF:0,ESPN 5 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0w7
+#EXTINF:0,ESPN 6 (Chile) (🇨🇱)
+http://181.78.82.6:46090/play/a00w
+#EXTINF:0,ESPN 6 (Colombia) (🇨🇴)
+http://190.61.42.218:9000/play/a062
+#EXTINF:0,ESPN 6 (España) (🇪🇸)
+http://181.78.105.146:8800/play/a056
+#EXTINF:0,ESPN 6 (Mexico) (🇲🇽)
+http://38.180.133.31:8000/play/a0qo
+#EXTINF:0,ESPN 6 (Peru) (🇵🇪)
+http://191.52.214.5:8000/play/a026
+#EXTINF:0,ESPN 6 (Argentina) (🇦🇷)
+http://190.102.246.93:9005/play/a02m
+#EXTINF:0,ESPN Deportes (España) (🇪🇸)
+http://190.92.10.66:4000/play/a003
+#EXTINF:0,ESPN Premium (Colombia) (🇨🇴)
+http://45.184.87.142:8000/play/a045
+#EXTINF:0,ESPN Premium (España) (🇪🇸)
+http://190.123.90.146:8000/play/a00f
+#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)
+http://190.102.246.93:9005/play/a00x
 #EXTINF:-1 tvg-id="FOX NEWS",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN",CNN
@@ -239,66 +299,6 @@ http://154.58.225.25:9999/rte2/index.m3u8
 http://81.137.213.119:4200/bysid/4164
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC Two" tvg-id="BBC.Two.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC Two
 http://81.137.213.119:4200/bysid/4287
-#EXTINF:0,ESPN (Chile) (🇨🇱)
-http://38.180.133.31:8000/play/a0tb
-#EXTINF:0,ESPN (Colombia) (🇨🇴)
-http://38.180.133.31:8000/play/a0wa
-#EXTINF:0,ESPN (Mexico) (🇲🇽)
-http://181.78.82.6:46090/play/a00q
-#EXTINF:0,ESPN (España) (🇪🇸)
-http://191.52.214.5:8000/play/a02s
-#EXTINF:0,ESPN 2 (Argentina) (🇦🇷)
-http://38.180.133.31:8000/play/a0w4
-#EXTINF:0,ESPN 2 (Colombia) (🇨🇴)
-http://181.78.106.127:9000/play/ca034
-#EXTINF:0,ESPN 2 (Chile) (🇨🇱)
-http://191.52.214.5:8000/play/a027
-#EXTINF:0,ESPN 2 (Mexico) (🇲🇽)
-http://181.78.105.146:8800/play/a08t
-#EXTINF:0,ESPN 2 (España) (🇪🇸)
-http://181.78.82.6:46090/play/a00i
-#EXTINF:0,ESPN 3 (Argentina) (🇦🇷)
-http://181.78.105.146:8800/play/a053
-#EXTINF:0,ESPN 3 (Chile) (🇨🇱)
-http://190.102.246.93:9005/play/a02l
-#EXTINF:0,ESPN 3 (Colombia) (🇨🇴)
-http://191.52.214.5:8000/play/a025
-#EXTINF:0,ESPN 3 (Peru) (🇵🇪)
-http://190.61.42.218:9000/play/a061
-#EXTINF:0,ESPN 3 (España) (🇪🇸)
-http://38.180.133.31:8000/play/a0w5
-#EXTINF:0,ESPN 3 (Mexico) (🇲🇽)
-http://181.78.82.6:46090/play/a00v
-#EXTINF:0,ESPN 4 (España) (🇪🇸)
-http://190.102.246.93:9005/play/a019
-#EXTINF:0,ESPN 4 (Colombia) (🇨🇴)
-http://38.180.133.31:8000/play/a0wd
-#EXTINF:0,ESPN 4 (Mexico) (🇲🇽)
-http://181.78.106.127:9000/play/ca036
-#EXTINF:0,ESPN 5 (España) (🇪🇸)
-http://190.83.2.172:8081/play/a07g
-#EXTINF:0,ESPN 5 (Mexico) (🇲🇽)
-http://38.180.133.31:8000/play/a0w7
-#EXTINF:0,ESPN 6 (Chile) (🇨🇱)
-http://181.78.82.6:46090/play/a00w
-#EXTINF:0,ESPN 6 (Colombia) (🇨🇴)
-http://190.61.42.218:9000/play/a062
-#EXTINF:0,ESPN 6 (España) (🇪🇸)
-http://181.78.105.146:8800/play/a056
-#EXTINF:0,ESPN 6 (Mexico) (🇲🇽)
-http://38.180.133.31:8000/play/a0qo
-#EXTINF:0,ESPN 6 (Peru) (🇵🇪)
-http://191.52.214.5:8000/play/a026
-#EXTINF:0,ESPN 6 (Argentina) (🇦🇷)
-http://190.102.246.93:9005/play/a02m
-#EXTINF:0,ESPN Deportes (España) (🇪🇸)
-http://190.92.10.66:4000/play/a003
-#EXTINF:0,ESPN Premium (Colombia) (🇨🇴)
-http://45.184.87.142:8000/play/a045
-#EXTINF:0,ESPN Premium (España) (🇪🇸)
-http://190.123.90.146:8000/play/a00f
-#EXTINF:0,ESPN Premium (Mexico) (🇲🇽)
-http://190.102.246.93:9005/play/a00x
 ###https://github.com/Romaxa55/world_ip_tv/blob/b1dc0fc86658e71db1f714fabb96882b7e3f8c9d/output/us.m3u###
 ###https://github.com/inspirationlinks/m3u/blob/live/Freetv.m3u###
 ###https://github.com/ipstreet312/freeiptv###
