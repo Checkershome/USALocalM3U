@@ -25,6 +25,8 @@ http://212.102.60.231/TSN_5/index.m3u8
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC Sports",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Sky Bundesliga",Sky Bundesliga
+http://190.92.10.66:4000/play/a006
 #EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
 http://45.184.87.142:8000/play/a045
 #EXTINF:-1 tvg-id="ESPN Argentina",ESPN Argentina
