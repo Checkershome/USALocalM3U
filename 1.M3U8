@@ -21,12 +21,12 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN 5",TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="MSG",MSG
+https://v1.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="NBC Sports",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Sky Bundesliga",Sky Bundesliga
-http://190.92.10.66:4000/play/a006
 #EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
 http://45.184.87.142:8000/play/a045
 #EXTINF:-1 tvg-id="ESPN Argentina",ESPN Argentina
@@ -91,6 +91,8 @@ http://45.184.87.142:8000/play/a045
 http://190.123.90.146:8000/play/a00f
 #EXTINF:-1 tvg-id="ESPN Premium Mexico",ESPN Premium Mexico
 http://190.102.246.93:9005/play/a00x
+#EXTINF:-1 tvg-id="TUDN",TUDN
+http://190.92.10.66:4000/play/a006
 #EXTINF:-1 tvg-id="FOX NEWS",FOX NEWS
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN",CNN
