@@ -25,6 +25,10 @@ http://212.102.60.231/TSN_5/index.m3u8
 https://v1.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="CBS Sports",CBS Sports
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d541a6c-eca6-11ee-9417-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8101bd6-94f5-4b0b-84f0-26de54287742&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="Golazo",Golazo
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d541dfa-eca6-11ee-97a9-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=00564372-d72f-4f86-81b0-c4307026c645&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="NBC Sports",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="ESPN Premium",ESPN Premium
@@ -309,6 +313,8 @@ http://154.58.225.25:9999/rte2/index.m3u8
 http://81.137.213.119:4200/bysid/4164
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC Two" tvg-id="BBC.Two.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC Two
 http://81.137.213.119:4200/bysid/4287
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="IPTV-DE",Al Bundy
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67a324d221af380008105d6f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 ###https://github.com/Romaxa55/world_ip_tv/blob/b1dc0fc86658e71db1f714fabb96882b7e3f8c9d/output/us.m3u###
 ###https://github.com/inspirationlinks/m3u/blob/live/Freetv.m3u###
 ###https://github.com/ipstreet312/freeiptv###
@@ -318,3 +324,4 @@ http://81.137.213.119:4200/bysid/4287
 ###https://github.com/HelmerLuzo?tab=repositories### 
 ###https://www.corgol.com/television/Corgol_IPTV_Playlist.m3u###
 ###https://github.com/Paradise-91/ParaTV?tab=readme-ov-file##Samsung+##
+###https://gist.github.com/miccayo/afe8aec7b01aebed7f91b9fd8a595dac###
