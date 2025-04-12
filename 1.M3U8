@@ -25,6 +25,8 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN 5",TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="TNT 5",TNT
+http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:-1 tvg-id="MSG",MSG
 https://v1.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
