@@ -12,7 +12,7 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 #EXTINF:-1 tvg-id="WOLO-DT1.us",ABC
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ESPN",ESPN
-https://v12.thetvapp.to/hls/ESPN/index.m3u8?token=dFdrMmJBWE9qeGt1MXZ2OHhwaXRzUjB5Wk5saHNvODVFUFRiSnY0Qw==
+http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ESPN 2",ESPN 2
 https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
 #EXTINF:-1 tvg-id="TSN 1",TSN 1
