@@ -25,12 +25,30 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1 tvg-id="TSN 5",TSN 5
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1 tvg-id="CBC",CBC
+http://cord-cutter.net:8080/hq3y4G/234247/57385
+#EXTINF:-1 tvg-id="Sportsnet 360",Sportsnet 360 
+http://cord-cutter.net:8080/hq3y4G/234247/57299
+#EXTINF:-1 tvg-id="Sportsnet East",Sportsnet East 
+http://cord-cutter.net:8080/hq3y4G/234247/57298
+#EXTINF:-1 tvg-id="Sportsnet One",Sportsnet One 
+http://cord-cutter.net:8080/hq3y4G/234247/57297
+#EXTINF:-1 tvg-id="Sportsnet Ontario",Sportsnet Ontario 
+http://cord-cutter.net:8080/hq3y4G/234247/57463
+#EXTINF:-1 tvg-id="Sportsnet Pacific",Sportsnet Pacific 
+http://cord-cutter.net:8080/hq3y4G/234247/47387
+#EXTINF:-1 tvg-id="Sportsnet West",Sportsnet West 
+http://cord-cutter.net:8080/hq3y4G/234247/57300
 #EXTINF:-1 tvg-id="TNT",TNT
 http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 tvg-id="TNT West",TNT West
+http://cord-cutter.net:8080/hq3y4G/234247/46688
 #EXTINF:-1 tvg-id="MSG",MSG
 https://v1.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Main Event UK",Sky Sports Main Event UK 
+http://cord-cutter.net:8080/hq3y4G/234247/35243
 #EXTINF:-1 tvg-id="Pickleball TV",Pickleball TV
 https://jmp2.uk/sam-CA110000152.m3u8
 #EXTINF:-1 tvg-id="NBC Sports",NBC Sports
