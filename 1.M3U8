@@ -13,8 +13,12 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="ESPN",ESPN
 http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ESPN HD",ESPN HD
+http://cord-cutter.net:8080/hq3y4G/234247/9802
 #EXTINF:-1 tvg-id="ESPN 2",ESPN 2
 https://v12.thetvapp.to/hls/ESPN2/index.m3u8?token=QmFaekVzaXRSRmU4R1lKWmZicUtFN051UGttODh0T2N5cVNvb2M1aQ==
+#EXTINF:-1 tvg-id="ESPN 2 HD",ESPN 2 HD
+http://cord-cutter.net:8080/hq3y4G/234247/2210
 #EXTINF:-1 tvg-id="TSN 1",TSN 1
 http://212.102.60.231/TSN_1/index.m3u8
 #EXTINF:-1 tvg-id="TSN 2",TSN 2
@@ -43,12 +47,16 @@ http://cord-cutter.net:8080/hq3y4G/234247/57300
 http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:-1 tvg-id="TNT West",TNT West
 http://cord-cutter.net:8080/hq3y4G/234247/46688
-#EXTINF:-1 tvg-id="MSG",MSG
-https://v1.thetvapp.to/hls/msg-madison-square-gardens/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="MSG",MSG
+http://cord-cutter.net:8080/hq3y4G/234247/21090
 #EXTINF:-1 tvg-id="Sky Sports Main Event UK",Sky Sports Main Event UK 
 http://cord-cutter.net:8080/hq3y4G/234247/35243
+#EXTINF:-1 tvg-id="Sky Sports Arena UK",Sky Sports Arena UK 
+http://cord-cutter.net:8080/hq3y4G/234247/137719
+#EXTINF:-1 tvg-id="Tennis Channel US",Tennis Channel USA
+http://cord-cutter.net:8080/hq3y4G/234247/20184
 #EXTINF:-1 tvg-id="Pickleball TV",Pickleball TV
 https://jmp2.uk/sam-CA110000152.m3u8
 #EXTINF:-1 tvg-id="NBC Sports",NBC Sports
