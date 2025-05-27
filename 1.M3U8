@@ -127,8 +127,12 @@ http://190.123.90.146:8000/play/a00f
 http://190.102.246.93:9005/play/a00x
 #EXTINF:-1 tvg-id="TUDN",TUDN
 http://190.92.10.66:4000/play/a006
+#EXTINF:-1 tvg-id="Tigo Sports",Tigo Sports
+http://181.78.106.127:9000/play/ca038/index.m3u8
+#EXTINF:-1 tvg-id="Fox Sports",Fox Sports
+http://200.115.120.1:8000/play/ca041/index.m3u8
 #EXTINF:-1 tvg-id="FOX NEWS",FOX NEWS
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNN",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xyN2yKP.png",US | KMBC 9 ABC
