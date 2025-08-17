@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KOMUDT1.us",NBC
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 tvg-id="KYOUDT2.us",NBC
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 tvg-id="KMIZDT1.us",ABC 
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 tvg-id="KRCGDT1.us",CBS
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHIK943.png",CBS
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 #EXTINF:-1 tvg-id="KQFXLD1.us",FOX
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 #EXTINF:-1 tvg-id="KOMUDT3.us",CW
@@ -189,8 +189,8 @@ https://cvtv.cvalley.net/hls/KSHBCozi/KSHBCozi.m3u8
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDhTnLR.jpg",US | KSMO IND
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bHIK943.png",US | KTVO 3.2 CBS
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:-1 tvg-id="KRCGDT1.us",US | KRCGDT1 CBS
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/urX82hM.png",US | KTVO Comet
 https://cvtv.cvalley.net/hls/KTVOComet/KTVOComet.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uct9V2m.png",US | KYOU DT4
@@ -214,7 +214,7 @@ https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 #EXTINF:-1 tvg-id="KYOUDT5.us",KYOU-DT5 (720p)
 https://cvtv.cvalley.net/hls/KYOUGrit/KYOUGrit.m3u8
 #EXTINF:-1 tvg-id="KYOUDT2.us",KYOU-DT2 (720p)
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 tvg-id="KYOUDT2.us",KYOU-DT2 (480p)
 https://cvtv.cvalley.net/hls/KYOUNBC/KYOUNBC.m3u8
 #EXTINF:-1 tvg-id="KTVODT3.us",KTVO-DT3 (720p)
