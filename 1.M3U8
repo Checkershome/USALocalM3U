@@ -47,6 +47,8 @@ http://cord-cutter.net:8080/hq3y4G/234247/47387
 http://cord-cutter.net:8080/hq3y4G/234247/57300
 #EXTINF:-1 tvg-id="TNT",TNT
 http://208.86.19.13:81/16.stream/index.m3u8
+#EXTINF:-1 tvg-id="TNT West",TNT East
+https://maldivesn.net/hilaytv/tnt
 #EXTINF:-1 tvg-id="TNT West",TNT West
 http://cord-cutter.net:8080/hq3y4G/234247/46688
 #EXTINF:-1 tvg-id="TBS",TBS
