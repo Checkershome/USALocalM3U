@@ -293,12 +293,6 @@ https://maldivesn.net/hilaytv/animaxhk
 #EXTINF:-1 tvg-id="atx" tvg-name="AT-X" tvg-logo="https://8upload.com/image/684231bb5b605/atxhilay.png" group-title="hilaytv",AT-X
 https://maldivesn.net/hilaytv/atx
 
-#EXTINF:-1 tvg-id="Kix.mv" tvg-name="Arirang Korea" tvg-logo="https://8upload.com/image/6832c80067db8/ariranghilay.png" group-title="hilaytv",Arirang Korea
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-
-#EXTINF:-1 tvg-id="KBSWorld.mv" tvg-name="KBS World" tvg-logo="https://8upload.com/image/67dce8b208f3c/kbsworld.png" group-title="hilaytv",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
-
 #EXTINF:-1 tvg-id="Kplus.mv" tvg-name="KPOP+" tvg-logo="https://8upload.com/image/68553fc819866/kpopplushilay.png" group-title="hilaytv",KPOP+
 https://maldivesn.net/hilaytv/kpopplus
 
