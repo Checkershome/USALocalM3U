@@ -14,9 +14,6 @@ https://maldivesn.net/hilaytv/vtv
 #EXTINF:-1 tvg-id="ntv" tvg-name="NTV" tvg-logo="https://8upload.com/image/689e41c846c96/ntvhilay.png" group-title="hilaytv",NTV
 https://maldivesn.net/hilaytv/ntv
 
-#EXTINF:-1 tvg-id="SSTV.mv" tvg-name="SSTV" tvg-logo="https://8upload.com/image/67da240232521/12-sstv.png" group-title="hilaytv",SSTV
-https://sstv.ssplay.mv/hls/sstv-live/index.m3u8
-
 #EXTINF:-1 tvg-id="events1.mv" tvg-name="LIVE EVENTS 1" tvg-logo="https://8upload.com/image/67fea38cdeccb/liveevent1hilay.png" group-title="hilaytv","Events", LIVE EVENTS 1
 https://maldivesn.net/hilaytv/events1
 
@@ -413,9 +410,6 @@ https://maldivesn.net/hilaytv/vsportuhd
 #EXTINF:-1 tvg-id="realmadrid.mv" tvg-name="Real Madrid TV" tvg-logo="https://8upload.com/image/67e4a381944ee/real_madrid_tv.png" group-title="hilaytv",Real Madrid TV
 https://maldivesn.net/hilaytv/realmadridtv
 
-#EXTINF:-1 tvg-id="barcelonatv" tvg-name="FC Barcelona TV" tvg-logo="https://8upload.com/image/6898f7eca3292/barcelonatvhilay.png" group-title="hilaytv",Barcelona TV
-https://www.youtube.com/@FCBarcelona/live
-
 #EXTINF:-1 tvg-id="mutv.mv" tvg-name="Manchester United TV" tvg-logo="https://8upload.com/image/67f44c4016cbe/mutvhilay.png" group-title="hilaytv",Manchester United TV
 https://maldivesn.net/hilaytv/mutv
 
@@ -760,9 +754,6 @@ https://maldivesn.net/hilaytv/zoommusic
 
 #EXTINF:-1 tvg-id="E24.mv" tvg-name="E 24" tvg-logo="https://8upload.com/image/687d96325a6a4/e24hilay.png" group-title="hilaytv",E 24
 https://maldivesn.net/hilaytv/e24
-
-#EXTINF:-1 tvg-id="balle.mv" tvg-name="Balle Balle" tvg-logo="https://8upload.com/image/687d983dd9667/ballehilay.png" group-title="hilaytv",Balle Balle
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/balle-balle/30a793e7-6de0-4725-afd4-ebc856ab2a02/2.m3u8
 
 #EXTINF:-1 tvg-id="musicindia.mv" tvg-name="Music India" tvg-logo="https://8upload.com/image/687d99a2c9062/musicindiahilay.png" group-title="hilaytv",Music India
 https://maldivesn.net/hilaytv/musicindia
