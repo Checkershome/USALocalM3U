@@ -393,7 +393,7 @@ https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3
 https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 #EXTINF:-1 tvg-id="dmax" tvg-chno="53" group-title="de" tvg-logo="https://picserve.netplus.ch/channels/dmax.png", dmax
 https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
-#EXTINF:-1 tvg-id="euronews" tvg-chno="59" group-title="fr" tvg-logo="https://picserve.netplus.ch/channels/euronews.png", Euronews
+#EXTINF:-1 tvg-id="euronews" tvg-chno="59" group-title="int" tvg-logo="https://picserve.netplus.ch/channels/euronews.png", Euronews
 https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
 #EXTINF:-1 tvg-id="eurosportde" tvg-chno="60" group-title="de" tvg-logo="https://picserve.netplus.ch/channels/eurosportde.png", Eurosport DE
 https://viamotionhsi.netplus.ch/live/eds/eurosportde/browser-HLS8/eurosportde.m3u8
