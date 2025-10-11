@@ -49,10 +49,14 @@ http://cord-cutter.net:8080/hq3y4G/234247/57300
 http://208.86.19.13:81/16.stream/index.m3u8
 #EXTINF:-1 tvg-id="TNT West",TNT East
 https://maldivesn.net/hilaytv/tnt
+#EXTINF:-1 tvg-id="TNT West",TNT East 2
+http://212.102.60.231/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNT West",TNT West
 http://cord-cutter.net:8080/hq3y4G/234247/46688
 #EXTINF:-1 tvg-id="TBS",TBS
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 tvg-id="TBS",TBS East
+http://212.102.60.231/TBS/index.m3u8
 #EXTINF:-1 tvg-id="MSG",MSG
 http://cord-cutter.net:8080/hq3y4G/234247/21090
 #EXTINF:-1 tvg-id="Sky Sports Main Event UK",Sky Sports Main Event UK 
