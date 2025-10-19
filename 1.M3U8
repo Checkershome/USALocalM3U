@@ -264,14 +264,10 @@ http://38.143.48.212:9981/stream/channelid/1117062706?profile=pass
 http://38.143.48.212:9981/stream/channelid/1433825997?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44792/s44792_ll_h15_ab.png" tvg-id="8c4d7e026c041e5c4b776afe8569ad34" tvg-chno="5",Global Toronto
 http://38.143.48.212:9981/stream/channelid/41831820?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34200/s34200_ll_h15_aa.png" tvg-id="13ffc177232593eb1f1c8fddee7df86b" tvg-chno="6",City TV
-http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18168/s18168_ll_h15_aa.png" tvg-id="18bf950bf67bc0aea7fd787e7d722935" tvg-chno="7",CP24
 http://38.143.48.212:9981/stream/channelid/194363160?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/75117/s75117_ll_h15_ab.png" tvg-id="b924973ca75e6feab4924785d396de0c" tvg-chno="8",ABC Spark
 http://38.143.48.212:9981/stream/channelid/1016538297?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58494/s10084_ll_h15_ab.png" tvg-id="92775fa8359ed9b0f810837e07fd8161" tvg-chno="9",CBC Ottawa
-http://38.143.48.212:9981/stream/channelid/677345170?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/60123/s60123_ll_h15_aa.png" tvg-id="d0bbbeb12e85a866fdc02f4ff8a2c865" tvg-chno="10",CHCH Hamilton
 http://38.143.48.212:9981/stream/channelid/834583504?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/65619/s65619_ll_h15_ab.png" tvg-id="d6e3cc172a594dddab9363d41a20f5c0" tvg-chno="11",History
@@ -290,12 +286,6 @@ http://38.143.48.212:9981/stream/channelid/1676836565?profile=pass
 http://38.143.48.212:9981/stream/channelid/1877863586?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73963/s73963_ll_h15_aa.png" tvg-id="3ba5b45c909a2392f3a54bc732b71da4" tvg-chno="18",BNN
 http://38.143.48.212:9981/stream/channelid/1555342651?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62111/s62111_ll_h15_ac.png" tvg-id="74ebc90d68aec8e35459ddd3127d212e" tvg-chno="19",SportsNet Ontario
-http://38.143.48.212:9981/stream/channelid/231336820?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34313/s34313_ll_h15_ab.png" tvg-id="1dd5bd41e9ce63a5c7d4bd3085ee69f9" tvg-chno="20",TSN 1
-http://38.143.48.212:9981/stream/channelid/1102959901?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61474/s61474_ll_h15_aa.png" tvg-id="def0f65207b195d7b319f2eb72e81055" tvg-chno="21",TSN 2
-http://38.143.48.212:9981/stream/channelid/1391915230?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61998/s61998_ll_h15_aa.png" tvg-id="827ac830a04f67715fcf25d3efa63502" tvg-chno="22",APTN
 http://38.143.48.212:9981/stream/channelid/818444930?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73549/s73549_ll_h15_ab.png" tvg-id="6a49fa07aafde94ad1d9701a5ae436ec" tvg-chno="23",CTV Drama
@@ -358,18 +348,6 @@ http://38.143.48.212:9981/stream/channelid/351521489?profile=pass
 http://38.143.48.212:9981/stream/channelid/1330995256?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/44794/s44794_ll_h15_aa.png" tvg-id="709f072367f776e5f991c6437bf0e9d6" tvg-chno="52",Discovery Velocity
 http://38.143.48.212:9981/stream/channelid/587702128?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68859/s68859_ll_h15_ac.png" tvg-id="90583f97039129077febe0c3e2df350e" tvg-chno="53",Rogers SportsNet 1
-http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49952/s49952_ll_h15_aa.png" tvg-id="ab4e7ae09b5177f329a854c7fa2480a1" tvg-chno="54",SportsNet 360
-http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61714/s61714_ll_h15_aa.png" tvg-id="8bd9315c84833bed08d6d91da2251969" tvg-chno="55",SportsNet Pacific
-http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90119/s90119_ll_h15_aa.png" tvg-id="9ca94a08ba9e61ba0bd138a99781c006" tvg-chno="56",TSN 3
-http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90123/s90123_ll_h15_aa.png" tvg-id="041ae0693e4150115bd67da7d3521f8d" tvg-chno="57",TSN 4
-http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png" tvg-id="e44260d45c1c416926af491410a4b39a" tvg-chno="58",TSN 5
-http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/74041/s74041_ll_h15_ad.png" tvg-id="9fdf3efd1ac9f556824114995f72ac2c" tvg-chno="59",Animal Planet
 http://38.143.48.212:9981/stream/channelid/2101272479?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58688/s15696_ll_h15_ac.png" tvg-id="e9fc85e930de098ecb10121fa50d8cca" tvg-chno="60",Noovo
@@ -388,14 +366,6 @@ http://38.143.48.212:9981/stream/channelid/901997545?profile=pass
 http://38.143.48.212:9981/stream/channelid/619256485?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/105038/s105038_ll_h15_ab.png" tvg-id="2a9ed9e681974e0c47007ced3e229231" tvg-chno="67",CHEX Peterborough
 http://38.143.48.212:9981/stream/channelid/1725537834?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15024/s15024_ll_h15_ab.png" tvg-id="1099bbb0dd26208c4cef996830d1ac81" tvg-chno="68",CBC Winnipeg
-http://38.143.48.212:9981/stream/channelid/817600784?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71785/s71785_ll_h15_ab.png" tvg-id="8876eef0f99886270e224e7838db9578" tvg-chno="69",Global Winnipeg
-http://38.143.48.212:9981/stream/channelid/1894676104?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="5b6b2dace20bba69618903ba9d542b16" tvg-chno="70",CTV Winnipeg
-http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
-#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png" tvg-id="f1e1c661b6e35613e302fbc7b6355176" tvg-chno="71",CityTV Winnipeg
-http://38.143.48.212:9981/stream/channelid/1640423921?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28055/s32356_ll_h15_ac.png" tvg-id="c4e6393a750a3e7d9b36c968e14200ec" tvg-chno="72",PBS East Boston GBH2
 http://38.143.48.212:9981/stream/channelid/976873156?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/55097/s55097_ll_h9_aa.png" tvg-id="37c05d2038f2c223167f56742c3eed6a" tvg-chno="73",A&E
@@ -412,6 +382,36 @@ http://38.143.48.212:9981/stream/channelid/1478849894?profile=pass
 http://38.143.48.212:9981/stream/channelid/1459816019?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/sources/generic/generic_sources_h3.png" tvg-id="a901add347e59cb27a6606c8f424e3be" tvg-chno="79",MovieTime
 http://38.143.48.212:9981/stream/channelid/1403847081?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/58494/s10084_ll_h15_ab.png" tvg-id="92775fa8359ed9b0f810837e07fd8161" tvg-chno="9",CBC Ottawa
+http://38.143.48.212:9981/stream/channelid/677345170?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15024/s15024_ll_h15_ab.png" tvg-id="1099bbb0dd26208c4cef996830d1ac81" tvg-chno="68",CBC Winnipeg
+http://38.143.48.212:9981/stream/channelid/817600784?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/71785/s71785_ll_h15_ab.png" tvg-id="8876eef0f99886270e224e7838db9578" tvg-chno="69",Global Winnipeg
+http://38.143.48.212:9981/stream/channelid/1894676104?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/82984/s82984_ll_h15_ab.png" tvg-id="5b6b2dace20bba69618903ba9d542b16" tvg-chno="70",CTV Winnipeg
+http://38.143.48.212:9981/stream/channelid/741174107?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26873/s26873_ll_h15_aa.png" tvg-id="f1e1c661b6e35613e302fbc7b6355176" tvg-chno="71",CityTV Winnipeg
+http://38.143.48.212:9981/stream/channelid/1640423921?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34200/s34200_ll_h15_aa.png" tvg-id="13ffc177232593eb1f1c8fddee7df86b" tvg-chno="6",City TV
+http://38.143.48.212:9981/stream/channelid/2009202451?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/34313/s34313_ll_h15_ab.png" tvg-id="1dd5bd41e9ce63a5c7d4bd3085ee69f9" tvg-chno="20",TSN 1
+http://38.143.48.212:9981/stream/channelid/1102959901?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61474/s61474_ll_h15_aa.png" tvg-id="def0f65207b195d7b319f2eb72e81055" tvg-chno="21",TSN 2
+http://38.143.48.212:9981/stream/channelid/1391915230?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90119/s90119_ll_h15_aa.png" tvg-id="9ca94a08ba9e61ba0bd138a99781c006" tvg-chno="56",TSN 3
+http://38.143.48.212:9981/stream/channelid/139110812?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90123/s90123_ll_h15_aa.png" tvg-id="041ae0693e4150115bd67da7d3521f8d" tvg-chno="57",TSN 4
+http://38.143.48.212:9981/stream/channelid/1776294404?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/90125/s90125_ll_h15_aa.png" tvg-id="e44260d45c1c416926af491410a4b39a" tvg-chno="58",TSN 5
+http://38.143.48.212:9981/stream/channelid/1415594724?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/68859/s68859_ll_h15_ac.png" tvg-id="90583f97039129077febe0c3e2df350e" tvg-chno="53",Rogers SportsNet 1
+http://38.143.48.212:9981/stream/channelid/390027408?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/49952/s49952_ll_h15_aa.png" tvg-id="ab4e7ae09b5177f329a854c7fa2480a1" tvg-chno="54",SportsNet 360
+http://38.143.48.212:9981/stream/channelid/1618628267?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/61714/s61714_ll_h15_aa.png" tvg-id="8bd9315c84833bed08d6d91da2251969" tvg-chno="55",SportsNet Pacific
+http://38.143.48.212:9981/stream/channelid/1546770827?profile=pass
+#EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/62111/s62111_ll_h15_ac.png" tvg-id="74ebc90d68aec8e35459ddd3127d212e" tvg-chno="19",SportsNet Ontario
+http://38.143.48.212:9981/stream/channelid/231336820?profile=pass
 
 #EXTINF:-1 tvg-name="ARD Event 1" tvg-id="ARDEvent1.de" group-title="IPTV-DE" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserste.png",ARD Event 1
 http://wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8
