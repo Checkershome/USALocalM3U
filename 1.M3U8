@@ -274,9 +274,9 @@ http://37.187.115.146:5050/play?id=TNT-Sports-2-BU
 http://37.187.115.146:5050/play?id=TNT-Sports-3
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3 
 http://37.187.115.146:5050/play?id=TNT-Sports-3-BU
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4 [tfms.xyz]
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4 
 http://37.187.115.146:5050/play?id=TNT-Sports-4
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4 [tfms.xyz]
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4 
 http://37.187.115.146:5050/play?id=TNT-Sports-4-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL 
 http://37.187.115.146:5050/play?id=Sky-Sports-Football
@@ -358,7 +358,7 @@ http://37.187.115.146:5050/play?id=ESPN-News
 http://37.187.115.146:5050/play?id=ESPN-U
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes
 http://37.187.115.146:5050/play?id=ESPN-Deportes
-#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes [tfms.xyz]
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes 
 http://37.187.115.146:5050/play?id=ESPN-Deportes-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nd9b-n-us-b-m0lw-zka-ilkgas-bu-v-b4-y-b-fcug6-va-j-c-y-i-g.png",MUTV
 http://37.187.115.146:5050/play?id=MUTV
@@ -376,7 +376,7 @@ http://37.187.115.146:5050/play?id=Fox-Sports-2
 http://37.187.115.146:5050/play?id=UK-Virgin-3
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",Virgin 1
 http://37.187.115.146:5050/play?id=UK-Virgin-1
-#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
 http://37.187.115.146:5050/play?id=BBC-Red-Button
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg",NHL Network
 http://37.187.115.146:5050/play?id=NHL-Network
