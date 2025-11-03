@@ -53,6 +53,8 @@ https://maldivesn.net/hilaytv/tnt
 http://212.102.60.231/TNT/index.m3u8
 #EXTINF:-1 tvg-id="TNT West",TNT West
 http://cord-cutter.net:8080/hq3y4G/234247/46688
+#EXTINF:-1 tvg-id="TruTV",TruTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-id="TBS",TBS East
