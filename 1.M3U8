@@ -296,7 +296,7 @@ http://192.168.1.4:3000/stream/37.m3u8
 http://192.168.1.4:3000/stream/60.m3u8
 #EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",Sky Sports Football UK
 http://192.168.1.4:3000/stream/35.m3u8
-#EXTINF:-1,Sky Sports Tennis UK
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",Sky Sports Tennis UK
 http://192.168.1.4:3000/stream/46.m3u8
 
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73682/s73682_ll_h15_aa.png" tvg-id="c022b0f250dea53314b55b244953cd06" tvg-chno="2",FX
