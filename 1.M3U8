@@ -299,6 +299,39 @@ http://192.168.1.4:3000/stream/35.m3u8
 #EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",Sky Sports Tennis UK
 http://192.168.1.4:3000/stream/46.m3u8
 
+#EXTINF:0,500. SKY SPORTS FOOTBALL
+http://178.33.239.54:8080/500a/index.m3u8
+#EXTINF:0,501. SKY SPORTS NEWS
+http://178.33.239.54:8080/501a/index.m3u8
+#EXTINF:0,502. SKY SPORT MAIN EVENT
+http://178.33.239.54:8080/502a/index.m3u8
+#EXTINF:0,503. SKY SPORT CRICKET
+http://178.33.239.54:8080/503a/index.m3u8
+#EXTINF:0,504. SKY SPORT ACTION
+http://178.33.239.54:8080/504a/index.m3u8
+#EXTINF:0,506. SKY SPORT PREMIER LEAGUE
+http://178.33.239.54:8080/506a/index.m3u8
+#EXTINF:0,507. SKY SPORTS MIX HD
+http://178.33.239.54:8080/507a/index.m3u8
+#EXTINF:0,508. Sky SPORTS F1
+http://178.33.239.54:8080/508a/index.m3u8
+#EXTINF:0,509. BT SPORTS 1
+http://178.33.239.54:8080/509a/index.m3u8
+#EXTINF:0,510. BT SPORTS 2
+http://178.33.239.54:8080/510a/index.m3u8
+#EXTINF:0,511. BT SPORTS 3
+http://178.33.239.54:8080/511a/index.m3u8
+#EXTINF:0,512. beIN SPORT 1
+http://178.33.239.54:8080/512a/index.m3u8
+#EXTINF:0,513. beIN SPORT 2
+http://178.33.239.54:8080/513a/index.m3u8
+#EXTINF:0,514. beIN SPORT 3
+http://145.239.5.177:80/514/index.m3u8
+#EXTINF:0,518. AMAZON PRIME 3
+http://145.239.5.177:80/518/index.m3u8
+#EXTINF:0,531. PREMIER SPORTS
+http://178.33.239.54:8080/531a/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/73682/s73682_ll_h15_aa.png" tvg-id="c022b0f250dea53314b55b244953cd06" tvg-chno="2",FX
 http://38.143.48.212:9981/stream/channelid/1924145856?profile=pass
 #EXTINF:-1 tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/91446/s10991_ll_h15_ad.png" tvg-id="32069542066c19d0eb123969278b9fb0" tvg-chno="3",NBC East
