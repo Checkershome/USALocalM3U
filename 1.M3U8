@@ -260,43 +260,7 @@ https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6DgGIkZ.jpg",US | KYOU NBC2
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2dobjBtbi5wbmc=",ESPN Step
-http://192.168.1.4:3000/stream/44.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzRmdHU0dS5wbmc=",ESPN2 USA
-http://192.168.1.4:3000/stream/45.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL29mN3FlbC5wbmc=",TSN1 
-http://192.168.1.4:3000/stream/111.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lLzF2NmZqYy5wbmc=",TSN2
-http://192.168.1.4:3000/stream/112.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2hlMWdtZC5wbmc=",TSN3
-http://192.168.1.4:3000/stream/113.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2Zsb3J2ai5wbmc=",TSN4
-http://192.168.1.4:3000/stream/114.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2xua2E1cC5wbmc=",TSN5
-http://192.168.1.4:3000/stream/115.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL2FsZHBmMi5wbmc=",Sportsnet 360
-http://192.168.1.4:3000/stream/409.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3A0eG0zMS5wbmc=",Sportsnet East
-http://192.168.1.4:3000/stream/408.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ly9maWxlcy5jYXRib3gubW9lL3UyZHh4dy5wbmc=",Sportsnet One
-http://192.168.1.4:3000/stream/411.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Lp9maWxlcy5jYXRib3gubW9lL3pxZXpyZS5wbmc=",Sportsnet Ontario
-http://192.168.1.4:3000/stream/406.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Le9maWxlcy5jYXRib3gubW9lL3Y4cndkYi5wbmc=",Sportsnet West
-http://192.168.1.4:3000/stream/407.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Lu9maWxlcy5jYXRib3gubW9lL3liMGkxNS5wbmc=",Sportsnet World
-http://192.168.1.4:3000/stream/410.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ld9maWxlcy5jYXRib3gubW9lL2pnYmV3Mi5wbmc=",Sky Sports MIX UK
-http://192.168.1.4:3000/stream/449.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Lo9maWxlcy5jYXRib3gubW9lL2J2eDFzYy5wbmc=",Sky Sports Main Event
-http://192.168.1.4:3000/stream/38.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Ll9maWxlcy5jYXRib3gubW9lLzEycDF0di5wbmc=",Sky Sports Action UK
-http://192.168.1.4:3000/stream/37.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Lz9maWxlcy5jYXRib3gubW9lLzk5bnR3eC5wbmc=",Sky Sports F1 UK
-http://192.168.1.4:3000/stream/60.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aHR0cHM6Le9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",Sky Sports Football UK
-http://192.168.1.4:3000/stream/35.m3u8
-#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",Sky Sports Tennis UK 2
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",Sky Sports Tennis UK 
 http://192.168.1.4:3000/stream/46.m3u8
 #EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6La9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",SKY SPORTS FOOTBALL
 http://178.33.239.54:8080/500a/index.m3u8
@@ -584,6 +548,16 @@ https://bloomberg.com/media-manifest/streams/eu.m3u8
 http://154.58.225.25:9999/rte1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="IPTV-DE",RTE2 (720p)
 http://154.58.225.25:9999/rte2/index.m3u8
+#EXTINF:-1 group-title="int",Rai 1 HD
+http://176.65.146.193:5004/play/a06i/index.m3u8
+#EXTINF:-1 group-title="int",Rai 2 HD
+http://176.65.146.193:5004/play/a06j/index.m3u8
+#EXTINF:-1 group-title="int",Rai 3 HD
+http://176.65.146.193:5004/play/a06k/index.m3u8
+#EXTINF:-1 group-title="int",Rai 4 HD
+http://176.65.146.193:5004/play/a06m/index.m3u8
+#EXTINF:-1 group-title="int",Rai 4K
+http://176.65.146.193:5004/play/a06h/index.m3u8
 #EXTINF:-1 tvg-id="3sathd" tvg-chno="2" group-title="de" tvg-logo="https://picserve.netplus.ch/channels/3sathd.png", 3Sat HD
 https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 #EXTINF:-1 tvg-id="artehd" tvg-chno="14" group-title="int" tvg-logo="https://picserve.netplus.ch/channels/artehd.png", Arte HD
@@ -714,6 +688,10 @@ https://viamotionhsi.netplus.ch/live/eds/sport1/browser-HLS8/sport1.m3u8
 https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8?_res_want=1920
 #EXTINF:-1 tvg-id="srf2hd" tvg-chno="180" group-title="de" tvg-logo="https://picserve.netplus.ch/channels/srf2hd.png", SRF 2 HD
 https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8?_res_want=1920
+#EXTINF:-1 group-title="de",SRF info HD
+http://176.65.146.193:5002/play/a06o/index.m3u8
+#EXTINF:-1 group-title="de",SRF zwei HD
+http://176.65.146.193:5002/play/a06l/index.m3u8
 #EXTINF:-1 tvg-id="srfinfo" tvg-chno="181" group-title="de" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png", SRF Info
 https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8?_res_want=1920
 #EXTINF:-1 tvg-id="startv" tvg-chno="182" group-title="de" tvg-logo="https://picserve.netplus.ch/channels/startv.png", startv
