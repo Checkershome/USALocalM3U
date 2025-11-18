@@ -260,6 +260,28 @@ https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6DgGIkZ.jpg",US | KYOU NBC2
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib4gubW9lL3F2eTc1Yy5wbmc=",Sportsnet East 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/2045
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib4gzbW9lL3F2eTc1Yy5wbmc=",Sportsnet One 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/2046
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib4gubW9lL9F2eTc1Yy5wbmc=",Sportsnet Ontario 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/2047
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib4gubW0lL9F2eTc1Yy5wbmc=",Sportsnet Pacific 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/2048
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9mbWxlcy5jYXRib4gubW0lL9F2eTc1Yy5wbmc=",TSN 1 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/1195
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9mbWxlcy5jYXRin4gubW0lL9F2eTc1Yy5wbmc=",TSN 2 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/175
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9mbWxlcy5jYXRib4gibW0lL9F2eTc1Yy5wbmc=",TSN 3 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/188
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9mbWxlcy6jYXRib4gibW0lL9F2eTc1Yy5wbmc=",TSN 4 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/1586
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHL6Lq9mbWxlcy6jYXRib4gibW0lL9F2eTc1Yy5wbmc=",TSN 5 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/977
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHL6Lq9mbWxlcy6jYXRmb4gibW0lL9F2eTc1Yy5wbmc=",ESPN 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/133
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHL6Lq9mbTxlcy6jYXRmb4gibW0lL9F2eTc1Yy5wbmc=",TNT 
+http://cdn1host.online:2999/oirmar/2PppXlI5F8/240
 #EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",Sky Sports Tennis UK 
 http://192.168.1.4:3000/stream/46.m3u8
 #EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6La9maWxlcy5jYXRib3gubW9lL3F2eTc1Yy5wbmc=",SKY SPORTS FOOTBALL
