@@ -260,6 +260,10 @@ https://cvtv.cvalley.net/hls/KMCIIND/KMCIIND.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6DgGIkZ.jpg",US | KYOU NBC2
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cbM6Lq9maWxlcy5jYXRib4gubW9lL3F2eTc1Yy5wbmc=",Sportsnet 360 
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2044
+#EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cbM6Lq0caWxlcy5jYXRib4gubW9lL3F2eTc1Yy5wbmc=",Sportsnet West 
+http://cdn1host.online:2999/Ismaelgx/1Lm9a2d1Mt/2049
 #EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib4gubW9lL3F2eTc1Yy5wbmc=",Sportsnet East 
 http://cdn1host.online:2999/oirmar/2PppXlI5F8/2045
 #EXTINF:-1 tvg-logo="http://localhost:3000/logo/aBR0cHM6Lq9maWxlcy5jYXRib4gzbW9lL3F2eTc1Yy5wbmc=",Sportsnet One 
