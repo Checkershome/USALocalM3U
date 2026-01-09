@@ -588,7 +588,7 @@ http://62.138.14.206:80/play/VwQKmFAM76oLWAXMm3HQEGdac7IYcMX5YROvPhOSzRs/ts
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC Two" tvg-id="BBC.Two.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC Two
 http://81.137.213.119:4200/bysid/4287
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="IPTV-DE",Al Bundy
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67a324d221af380008105d6f/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67a324d221af380008105d6f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&deviceId=1&sid=01
 ###https://github.com/Romaxa55/world_ip_tv/blob/b1dc0fc86658e71db1f714fabb96882b7e3f8c9d/output/us.m3u###
 ###https://github.com/inspirationlinks/m3u/blob/live/Freetv.m3u###
 ###https://github.com/ipstreet312/freeiptv###
