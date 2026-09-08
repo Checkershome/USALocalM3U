@@ -587,6 +587,8 @@ https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 http://81.137.213.119:4200/bysid/4164
 #EXTINF:-1 cuid="519" tvg-chno="519" tvg-name="BBC Two" tvg-id="BBC.Two.uk" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/LogosTv/BBC%20One.webp" group-title="IPTV-DE",BBC Two
 http://81.137.213.119:4200/bysid/4287
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="IPTV-DE",Golazo
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1RV97tP.png" group-title="IPTV-DE",Al Bundy
 https://jmp2.uk/plu-67a324d221af380008105d6f.m3u8
 ###https://github.com/Romaxa55/world_ip_tv/blob/b1dc0fc86658e71db1f714fabb96882b7e3f8c9d/output/us.m3u###
